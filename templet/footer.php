@@ -6,7 +6,7 @@
                     	<aside class="widget widget_text">
                     		<h4 class="widgettitle"> Location </h4>
                             <div class="dt-sc-contact-info address">
-                            	<p>2145 - 007 - 1566 <br>No 45, Season Street, Livingstone <br>LA, Inc - 4502</p>
+                            	<p>juan de la barrera<br>No 45, Season Street, Livingstone <br>LA, Inc - 4502</p>
                             </div>
                             <div class="hr-invisible-very-very-small"></div>
                             <h4 class="widgettitle"> Telephone Enquiry </h4>
